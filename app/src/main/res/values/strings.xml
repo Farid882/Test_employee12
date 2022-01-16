@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test employee12</string>
+    <string name="last_name">Фамилия:</string>
+    <string name="name">Имя:</string>
+</resources>
